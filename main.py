@@ -2,11 +2,11 @@ import requests
 from twilio.rest import Client
 
 
-account_sid = 'ACf25583d327507bf47a898f8f3783d3e0'
-auth_token = "52784b20cedec0d0527da8941b6bc556"
-api_key = "4bc67749030953ced82a17754af0a88a"
-latitude = 29.760427
-longitude = -95.369804
+account_sid = ''
+auth_token = ""
+api_key = ""
+latitude = 
+longitude = 
 
 will_rain = False
 
